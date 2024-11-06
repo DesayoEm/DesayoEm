@@ -2,7 +2,7 @@
 <p align="left">A medical information specialist passionate about using technology to improve, streamline, and advance healthcare systems. </br>I’m currently enrolled in the Backend engineering program at AltSchool Africa, developing my Python skills and focusing on building efficient solutions.
 </br></br>
 </p>
-You can reach me via email at labaekaadesayo@gmail.com 
+
 <p align="left">https://github.com/DesayoEm/Adesayo20/blob/main/README.md
 </p>
 
