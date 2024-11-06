@@ -3,7 +3,6 @@
 </br></br>
 </p>
 
-<p align="left">https://github.com/DesayoEm/Adesayo20/blob/main/README.md
 </p>
 
 <h5 align="left">LANGUAGES AND TOOLS</h5>
